@@ -1,0 +1,42 @@
+body {
+  background-color: hsl(200, 70%, 60%);
+}
+.box1 {
+  background-color: hsl(80, 70%, 60%);
+  width: 100%;
+  height: 60%;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  margin: 2% auto;
+  position: relative;
+}
+.box2 {
+  background-color: hsl(40, 70%, 60%);
+  width: 100%;
+  height: 20%;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  position: relative;
+}
+.ss1 {
+  color: white;
+  font-size: 1.5vw;
+  position: absolute;
+  top: 1%;
+  left: 2%;
+  bottom-margin: 10%;
+}
+.ss2 {
+  color: background-color: hsl(220, 70%, 50%);
+  font-size: 1.2vw;
+  position: absolute;
+  top: 10%;
+  left: 2%;
+}
+.ss3 {
+  color: white;
+  font-size: 1vw;
+  position: absolute;
+  top: 70%;
+  left: 2%;
+}
